@@ -14,10 +14,9 @@ body {
 
 .search {
 	position: relative;
+	background-color: #fff;
 	height: 50px;
 }
-
-
 
 .search .input {
 	background-color: #fff;

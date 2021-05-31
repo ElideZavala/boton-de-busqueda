@@ -17,8 +17,6 @@ body {
 	height: 50px;
 }
 
-
-
 .search .input {
 	background-color: #fff;
 	border: 0;
@@ -41,12 +39,12 @@ body {
 	height: 50px;
 	width: 50px;
 	transition: transform 0.3s ease;
-	border-radius: 20px;
 }
 
 .btn:focus,
 .input:focus {
 	outline: none;
+	border-radius: 20px;
 }
 
 .search.active .input {

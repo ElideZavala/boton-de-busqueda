@@ -15,9 +15,12 @@ body {
 .search {
 	position: relative;
 	height: 50px;
+	border-radius: 20px;
 }
 
-
+.color {
+	background-color: #fff;
+}
 
 .search .input {
 	background-color: #fff;

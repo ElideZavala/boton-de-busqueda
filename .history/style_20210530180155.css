@@ -17,8 +17,6 @@ body {
 	height: 50px;
 }
 
-
-
 .search .input {
 	background-color: #fff;
 	border: 0;
@@ -55,4 +53,5 @@ body {
 
 .search.active .btn {
 	transform: translateX(198px);
+	border-radius: 20px;
 }

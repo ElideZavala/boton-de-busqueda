@@ -17,7 +17,9 @@ body {
 	height: 50px;
 }
 
-
+.color {
+	background-color: #fff
+}
 
 .search .input {
 	background-color: #fff;
